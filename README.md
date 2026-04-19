@@ -9,6 +9,7 @@ Canonical Markdown references for the local OpenClaw overrides currently maintai
 - [OV-014](docs/ov-014.md)
 - [OV-015](docs/ov-015.md)
 - [OV-016](docs/ov-016.md)
+- [OV-017](docs/ov-017.md)
 
 ## Purpose
 
@@ -18,7 +19,7 @@ Each document explains:
 
 - why the override exists
 - what behavior it changes
-- how to patch the active dist bundle on a `2026.4.14` install
+- how to patch the active dist bundle on the matching OpenClaw install version
 - how to verify the patch after restart
 
 ## Usage

@@ -10,6 +10,7 @@ Canonical Markdown references for the local OpenClaw overrides currently maintai
 - [OV-015](docs/ov-015.md)
 - [OV-016](docs/ov-016.md)
 - [OV-017](docs/ov-017.md)
+- [OV-018](docs/ov-018.md)
 
 ## Purpose
 
